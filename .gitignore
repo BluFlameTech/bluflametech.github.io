@@ -1,4 +1,12 @@
-_site/
-.sass-cache/
-.jekyll-cache/
+
+#intellij
+
+.idea
+*.iml
+
+#jekyll
+
+_site
+.sass-cache
 .jekyll-metadata
+Gemfile.lock

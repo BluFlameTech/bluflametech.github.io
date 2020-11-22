@@ -1,0 +1,20 @@
+---
+# This Sass file needs front matter (the dashes are enough)
+---
+
+/* ==========================================================================
+   FOOTER
+   ========================================================================== */
+
+.page__footer {
+  margin-top: 0;
+}
+
+.centered-text {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #ffffff;
+  font-size: 32pt;
+}
