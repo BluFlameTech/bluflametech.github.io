@@ -2,28 +2,33 @@
 # This Sass file needs front matter (the dashes are enough)
 ---
 
-/* ==========================================================================
-   FOOTER
-   ========================================================================== */
+.masthead img {
+  margin-left: 1em;
+}
 
 .page__footer {
   margin-top: 0;
 }
 
-.splash-text, .under-text {
-  position: relative;
-  top: -16em;
+.splash-text {
+  background-image: url("/assets/images/programmers-cropped-transparent.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 16em;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 100%;
+  color: #0092ca;
+  padding: 1em;
+}
+.under-text {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
   max-width: 1280px;
   color: #0092ca;
   padding: 0.5em;
-}
-
-.initial-content {
-  flex: none;
-  height: calc(100vh - 9em);
 }
 
 .initial-content .under-text {
@@ -41,10 +46,11 @@
   padding: 2em 2em 2em 2em;
   margin: 0;
   vertical-align: top;
+  text-align: justify;
 }
 
 .splash-text h1 {
-  font-size: 3em;
+  font-size: 2em;
 }
 
 .under-text h1 {
@@ -55,6 +61,7 @@
 .under-text h3 {
   margin-top: 0;
   color: #0092ca;
+  text-align: left;
 }
 
 .under-text h3 i {
@@ -76,7 +83,7 @@
   background-color: #0092ca;
   color: #ffffff;
   margin: 1em;
-  padding: 1em;
+  padding: 0.5em;
 }
 
 
