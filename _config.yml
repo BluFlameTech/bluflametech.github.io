@@ -18,9 +18,8 @@ favicon: true
 corp_name: "Blu Flame Technologies, LLC"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Develper-oriented end-to-end DevOps automation that just works
+keywords: devops, secops, automation, developer, build, software, ci, cd, integration, delivery
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: air
@@ -61,7 +60,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Blu Flame Technologies"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
@@ -80,9 +79,6 @@ author:
 
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/bluflametech"
 
 defaults:
   # _posts
