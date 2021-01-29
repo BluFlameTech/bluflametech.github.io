@@ -49,8 +49,8 @@ But there is a lot more in between and even at the bookends when it comes to Dev
 
 What about project inception - the time and effort required to initiate a project and onboard developers? What about
 the maturity factor of the organization - the efficacy of the tool chain as it relates to the organization's present
-capabilities? What about self-service - the technical and organization support mechanisms that allow software systems to
-be quickly and iteratively developed as cohesive units?
+capabilities? What about self-service - the technical and organizational support mechanisms that allow software systems 
+to be quickly and iteratively developed as cohesive units?
 
 ### Beyond Automation
 
