@@ -8,10 +8,10 @@ tags:
   - automation
 ---
 
-DevOps is more than CI and CD; it's about empowering teams to deliver. Building software systems is hard. Although the 
+DevOps is more than CI and CD; it's about empowering teams to deliver. Building software systems is hard. And although the 
 practice of software engineering has come a long way since the coining of the term "DevOps," by 
 Patrick Debois [over 10 years ago](https://legacy.devopsdays.org/events/2009-ghent/program), the cultural underpinnings 
-it endorses have not always been well embraced.
+it endorses to ease the burdens associated with building software systems have not always been well embraced.
 
 ![DevOps](/assets/images/devops/iStock-1199494839.jpg)
 
