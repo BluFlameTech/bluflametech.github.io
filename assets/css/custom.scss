@@ -12,34 +12,34 @@
 }
 
 .splash-text {
-  background-image: url("/assets/images/programmers-cropped-transparent.jpg");
+  background-image: url("/assets/images/banner.png");
   background-size: 100%;
   background-repeat: no-repeat;
-  height: 16em;
+  height: 8em;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
   width: 100%;
-  color: #0092ca;
   padding: 1em;
 }
+
 .under-text {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
   max-width: 1280px;
-  color: #0092ca;
-  padding: 0.5em;
+  color: #5d7bb8;
+  padding: 1em;
 }
 
-.initial-content .under-text {
+.initial-content .under-text, .archive {
   text-align: left;
   padding-top: 2em;
   color: #999999;
 }
 
 .initial-content .under-text i {
-  color: #0092ca;
+  color: #5d7bb8;
 }
 
 .under-text table td {
@@ -51,23 +51,35 @@
 }
 
 .splash-text h1 {
-  font-size: 2em;
+  font-size: 1.5em;
+  font-weight: 400;
+  color: #ffffff;
+  text-align: center;
+  position: relative;
+  top: 1em;
 }
 
 .under-text h1 {
   width: 100%;
   text-align: center;
+  color: #5d7bb8;
+  font-weight: 400;
+  font-size: 1.25em;
 }
 
 .under-text h3 {
   margin-top: 0;
-  color: #0092ca;
+  color: #5d7bb8;
   text-align: left;
 }
 
 .under-text h3 i {
   color: #999999;
   opacity: 0.5;
+}
+
+.under-text a {
+  color: #5d7bb8;
 }
 
 .img-trim {
@@ -86,5 +98,55 @@
   margin: 1em;
   padding: 0.5em;
 }
+
+.visible-links a, .visible-links a:hover {
+  color: #999999;
+}
+
+#page-title {
+  font-size: 1.5em;
+  font-weight: 400;
+  color: #5d7bb8;
+}
+
+.author__name {
+  font-weight: 400;
+}
+
+.archive h2 {
+  font-weight: 400
+}
+
+.archive h3 a, .archive h2 a, .archive h3 a:visited, .archive h2 a:visited, a, a:visited {
+  font-weight: 400;
+  color: #5d7bb8;
+  text-decoration: none;
+}
+
+.archive h3 a:hover, .archive h2 a:hover, a:hover {
+  color: #0092ca;
+}
+
+article.page {
+  color: #999999;
+}
+
+article.page h1, article.page h2, article.page h3 {
+  color: #5d7bb8;
+  font-weight: 400;
+}
+
+article.page img {
+  border: 1px solid #dddddd;
+}
+
+article footer.page__meta {
+  color: #666666;
+}
+
+.page__related {
+  color: #666666;
+}
+
 
 
