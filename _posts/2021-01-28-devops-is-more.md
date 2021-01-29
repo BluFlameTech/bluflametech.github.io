@@ -14,6 +14,7 @@ Patrick Debois [over 10 years ago](https://legacy.devopsdays.org/events/2009-ghe
 it endorses to ease the burdens associated with building software systems have not always been well embraced.
 
 ![DevOps](/assets/images/devops/iStock-1199494839.jpg)
+_<small>Credit: Getty Images</small>_
 
 It's safe to say that _we are not there yet._ In some respects, the case for DevOps has not been made - not 
 sufficiently well enough for managers who came up with a compartmentalized approach to software development to adopt a 
