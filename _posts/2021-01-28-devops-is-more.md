@@ -1,6 +1,8 @@
 ---
 title: "DevOps Is More Than CI and CD"
 date: 2021-01-28T15:34:30-04:00
+header:
+  teaser: /assets/images/devops/iStock-1199494839.jpg
 categories:
   - blog
 tags:
