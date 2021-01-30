@@ -12,7 +12,6 @@
 }
 
 .splash-text {
-  background-image: url("/assets/images/banner.png");
   background-size: 100%;
   background-repeat: no-repeat;
   height: 8em;
@@ -21,6 +20,37 @@
   text-align: center;
   width: 100%;
   padding: 1em;
+}
+
+.bluflame-banner {
+  background-image: url("/assets/images/banner.png");
+}
+
+.bluflame-banner h1 {
+  color: #ffffff;
+  font-weight: 400;
+}
+
+.codezero th {
+  background-color: #ffffff;
+  border-bottom: 1px solid #cccccc;
+  height: 14em;
+  padding: 2em;
+  text-align: center;
+}
+
+.codezero th h1 {
+  color: #000000;
+  font-weight: 400;
+  font-family: Roboto, Helvetica, Veranda, "sans-serif";
+  font-size: 2em;
+  text-align: center;
+}
+
+.codezero img {
+  height: 9em;
+  margin-top: 1em;
+  margin-bottom: 2em;
 }
 
 .under-text {
@@ -42,7 +72,11 @@
   color: #5d7bb8;
 }
 
-.under-text table td {
+.initial-content .codezero i {
+  color: #0092ca;
+}
+
+.under-text table td, .codezero-banner {
   border: 0;
   padding: 2em 2em 2em 2em;
   margin: 0;
@@ -52,8 +86,6 @@
 
 .splash-text h1 {
   font-size: 1.5em;
-  font-weight: 400;
-  color: #ffffff;
   text-align: center;
   position: relative;
   top: 1em;
@@ -80,6 +112,23 @@
 
 .under-text a {
   color: #5d7bb8;
+}
+
+.codezero h1 {
+  text-align: left;
+  font-size: 2em;
+  color: #0092ca;
+}
+
+.codezero {
+  width: 100%;
+  color: #0092ca;
+  background-color: white;
+}
+
+.codezero .details {
+  color: black;
+  margin-top: 1em;
 }
 
 .img-trim {
