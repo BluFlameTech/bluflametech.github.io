@@ -51,7 +51,7 @@ layout: default
                 </div>
             </td>
             <td style="text-align: center">
-                <img src="/assets/images/integrations.png" />
+                <img src="/assets/images/tools.png" />
             </td>
         </tr>
     </table>
