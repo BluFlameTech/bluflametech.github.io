@@ -60,7 +60,7 @@ to be quickly and iteratively developed as cohesive units?
 
 \- John Smart, Deloitte
 
-The benefits of DevOps automation cannot be understated. However, it's important to recognize that those benefits are
+The benefits of DevOps automation cannot be overstated. However, it's important to recognize that those benefits are
 only realized when they support the goals of DevOps, which can be summarized as John Smart so eloquently put it: 
 _better value, sooner, safer, happier._ That's not just CI and CD; and it's not just automation. It's everything 
 from the culture to the tool chain to the leadership and the technical competencies that enable a holistic systems
