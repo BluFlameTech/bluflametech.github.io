@@ -193,7 +193,10 @@
 }
 
 .archive__item-teaser img {
-  width: 200px;
+  width: 9em;
+  margin-top: auto;
+  margin-bottom: auto;
+
 }
 
 article.page {
@@ -207,6 +210,12 @@ article.page h1, article.page h2, article.page h3 {
 
 article.page img {
   border: 1px solid #dddddd;
+}
+
+article.archive__item {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #dddddd;
 }
 
 article footer.page__meta {
