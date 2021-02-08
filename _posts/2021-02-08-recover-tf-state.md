@@ -18,7 +18,7 @@ true for you, read on to find a relatively simple approach to DR with Terraform 
 
 ![Terraform](/assets/images/posts/recovering_tf/terraform.jpg)
 
-_<small>Credit: Hashicorp Terraform</small>_
+_<small>Credit: HashiCorp Terraform</small>_
 
 ### What is Terraform?
 
