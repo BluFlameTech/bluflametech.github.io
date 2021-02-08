@@ -15,6 +15,8 @@ layout: default
         integration and toolchain orchestration problems so that software developers, teams and organizations 
         can focus on building and deploying great software.
 
+        <h1>&nbsp;</h1>
+
         <h1>Our Principles</h1>
         
         <table>
