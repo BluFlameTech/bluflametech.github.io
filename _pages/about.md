@@ -52,8 +52,8 @@ layout: default
                     Genba (sometimes written as Gemba) is a Japanese word meaning "the actual place." It has also been 
                     adopted as common lingo amongst Lean practitioners. By going to the actual place [where the problem 
                     occurred or where the value is created], we can focus more directly on our product(s) and on our 
-                    customers. When we see what they see, when we experience what they experience, the BS gives way to 
-                    purpose.
+                    customers. When we see what our customers see, when we experience what they experience, the BS gives 
+                    way to purpose.
                 </td>
             </tr>
             <tr>
