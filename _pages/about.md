@@ -13,7 +13,7 @@ layout: default
     
         Blu Flame Technologies is a software company that solves DevOps onboarding, security, automation, 
         integration and toolchain orchestration problems so that software developers, teams and organizations 
-        can focus on building and deploying great software.
+        can focus on creating great software.
 
         <h1>&nbsp;</h1>
 
