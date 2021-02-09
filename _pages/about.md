@@ -24,10 +24,10 @@ layout: default
                 <td width="50%">
                     <h3><i class="fas fa-tasks"></i> Quality as a Practice</h3>
                     We're not talking about beating our chests with arbitrary metrics... when it comes to quality, we 
-                    mean it. Quality as a practice is continuously testing our software at multiple levels, integrating 
-                    feedback and consistently striving to improve our product(s) and the way we work. But it's also 
-                    enabling our customers to do the same. We want our software to be great. And we want your software 
-                    to be great, too!
+                    mean it. Quality as a practice is continuously testing our software at multiple levels, quickly 
+                    integrating feedback and consistently striving to improve our product(s) and the way we work. But 
+                    it's also enabling our customers to do the same. We want our software to be great. And we want your 
+                    software to be great, too!
                 </td>
                 <td>
                     <h3><i class="fas fa-wrench"></i> Fix, Don't Workaround</h3>
@@ -48,11 +48,12 @@ layout: default
                     like all responsible consumers, it's important to also give back for the benefit of others.
                 </td>
                 <td>
-                    <h3><i class="fas fa-location-arrow"></i> Focus on Gemba</h3>
-                    Gemba is a Japanese word meaning "the actual place." It has also been adopted as common lingo amongst
-                    lean practitioners. By going to the actual place [where the problem occurred or 
-                    where the value is created], we can focus more directly on our product(s) and on our customers.
-                    When we see what they see, when we experience what they experience, the BS gives way to purpose.
+                    <h3><i class="fas fa-location-arrow"></i> Focus on Genba</h3>
+                    Genba (sometimes written as Gemba) is a Japanese word meaning "the actual place." It has also been 
+                    adopted as common lingo amongst Lean practitioners. By going to the actual place [where the problem 
+                    occurred or where the value is created], we can focus more directly on our product(s) and on our 
+                    customers. When we see what they see, when we experience what they experience, the BS gives way to 
+                    purpose.
                 </td>
             </tr>
             <tr>
