@@ -44,7 +44,7 @@ layout: default
                     As tempting as it may be to reinvent technology, reuse should always be the first choice. Reuse
                     is part and parcel with research. What is the problem? Has it been solved before? Can you take 
                     advantage of the available solution(s)? Does it meet the need? Is there an existing pattern or
-                    practice that addresses the problem? We reuse from eachother and we reuse from the community. And 
+                    practice that addresses the problem? We reuse from each other and we reuse from the community. And 
                     like all responsible consumers, it's important to also give back for the benefit of others.
                 </td>
                 <td>
