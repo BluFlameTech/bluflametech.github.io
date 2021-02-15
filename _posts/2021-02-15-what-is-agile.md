@@ -12,7 +12,7 @@ tags:
 This past Thursday marked the 20th anniversary of the Agile Manifesto. And yet, 20 years later, there still seems
 to be a lot of confusion around what exactly it means to be "Agile." Plainly speaking, Agile is defined by 
 [4 values](https://agilemanifesto.org/) and [12 principles](https://agilemanifesto.org/principles.html). How you
-align with those 4 values and 12 principles, however, are (intentionally) open-ended.
+align with those 4 values and 12 principles, however, is (intentionally) open-ended.
 
 ![Agile](/assets/images/posts/what_is_agile/agile.jpg)
 
