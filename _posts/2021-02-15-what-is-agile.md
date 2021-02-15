@@ -105,7 +105,7 @@ Here are some suggestions.
 
 1. Write down the goals of the organization, the team, and the needs of its members as a working agreement.
 2. Benchmark all processes against the working agreement (1), and the 4 values and 12 principles of Agile.
-3. Regularly solicit and feedback w/actionable results - and hold each other accountable at all levels.
+3. Regularly solicit feedback w/actionable results - and hold each other accountable at all levels.
 
 Some organizations move faster than others. Some organizations measure their progress better than others. Perfection is
 not and should never be the goal; continuous improvement should be. And that can only happen when
