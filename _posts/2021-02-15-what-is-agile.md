@@ -124,6 +124,6 @@ values and principles of Agile. Of course, you could always decide to set aside 
 you wouldn't really be practicing Agile. You would be practicing something else and calling it "Agile."
 
 The defining values and principles of Agile are intentionally non-prescriptive. Agile isn't a process. It's a shared
-understanding of how teams and individuals work together for the purpose of consistently producing working software. 
-How that is done is left to the organizations, teams and individuals who practice Agile. And to that end, an established 
+understanding that guides how teams and individuals work together for the purpose of consistently producing working software. 
+The specific implementation is left to the organizations, teams and individuals who practice Agile. And to that end, an established 
 Agile methodology can provide some great direction.
