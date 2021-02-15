@@ -111,7 +111,7 @@ Some organizations move faster than others. Some organizations measure their pro
 not and should never be the goal; continuous improvement should be. And that can only happen when
 every person in the organization agrees on the same values, principles and goals and when everyone works
 toward upholding them. It's not enough to say the words. The actions of the organization and of the individuals
-within it, must reflect them.
+within it must reflect them.
 
 If as a team and as an organization, you can do that, then you are moving in the right direction.
 
