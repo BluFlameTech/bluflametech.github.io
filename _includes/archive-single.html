@@ -13,10 +13,17 @@
 
 <div class="{{ include.type | default: 'list' }}__item">
     <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-        <div class="archive__item-teaser" style="float:right">
-            <img src="{{ teaser | relative_url }}" alt="" >
-        </div>
-        <h3 class="archive__item-title no_toc" itemprop="headline">
+        {% if include.type == "grid" %}
+            <div class="archive__item-teaser">
+                <img src="{{ teaser | relative_url }}" alt="" >
+            </div>
+            <h3 class="archive__item-title no_toc" itemprop="headline" style="clear: both">
+        {% else %}
+            <div class="archive__item-teaser" style="float:right">
+                <img src="{{ teaser | relative_url }}" alt="" >
+            </div>
+            <h3 class="archive__item-title no_toc" itemprop="headline">
+        {% endif %}
             {% if post.link %}
             <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
             {% else %}
