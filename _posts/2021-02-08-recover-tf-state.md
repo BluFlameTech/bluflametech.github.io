@@ -63,7 +63,7 @@ state would be in a non-working state.
 
 ![S3 CRR](/assets/images/posts/recovering_tf/s3_repl.jpg)
 
-_<small>S3 Replication; Credit: Cloudcraft</small>_
+_<small>S3 Replication; Created using [Cloudcraft](https://www.cloudcraft.co/)</small>_
 
 A common deployment scenario with S3 is to have a primary [S3 bucket](https://aws.amazon.com/s3/) in one region that 
 replicates its data to another bucket in a different region. This is called 

@@ -11,6 +11,14 @@
   padding-left: 20px;
 }
 
+.page__footer a:link, .page__footer a:visited {
+  color: white;
+}
+
+.page__footer a i.fab {
+  color: #dddddd;
+}
+
 .initial-content {
   background-color: white;
 }
@@ -198,7 +206,7 @@
   margin-bottom: auto;
 }
 
-.archive__item-excerpt {
+.list__item .archive__item-excerpt {
   margin-right: 203px;
 }
 

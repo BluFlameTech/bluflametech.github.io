@@ -9,12 +9,14 @@
 </div>
 
 <div class="page__footer-copyright">
-    &copy; {{ site.time | date: '%Y' }} {{ site.corp_name | default: site.title }}.
     {% if site.footer.links %}
+    <p> Follow:
     {% for link in site.footer.links %}
     {% if link.label and link.url %}
-    | <a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a>
+    <a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a>
     {% endif %}
     {% endfor %}
+    </p>
     {% endif %}
+    &copy; {{ site.time | date: '%Y' }} {{ site.corp_name | default: site.title }}.
 </div>
