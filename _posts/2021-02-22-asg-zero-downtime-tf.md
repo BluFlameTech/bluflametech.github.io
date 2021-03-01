@@ -2,7 +2,7 @@
 title: "Zero-Downtime AWS Autoscaling Groups with Terraform"
 date: 2021-02-21T14:17:00-05:00
 header:
-  teaser: /assets/images/posts/zero_downtime_asg/AWS-autoscaling-logo.png
+  teaser: /assets/images/posts/zero_downtime_asg/AWS-autoscaling-logo.jpg
 categories:
 - blog 
 tags:
@@ -16,7 +16,7 @@ Hosting your own web application server? Then you may have heard that autoscalin
 happens when you need to update the AMI or replace the underlying web application server? Tearing down and re-provisioning
 the instances in your autoscaling group will result in a service outage. So, what is a (Terraform) developer to do?
 
-![Autoscaling Groups](/assets/images/posts/zero_downtime_asg/AWS-autoscaling-logo.png)
+![Autoscaling Groups](/assets/images/posts/zero_downtime_asg/AWS-autoscaling-logo.jpg)
 
 _<small>Credit: Amazon Web Services</small>_
 

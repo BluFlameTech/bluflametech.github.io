@@ -2,7 +2,7 @@
 title: "DevOps Is More Than CI and CD"
 date: 2021-01-28T15:34:30-05:00
 header:
-  teaser: /assets/images/posts/devops/iStock-1199494839.jpg
+  teaser: /assets/images/posts/devops/devops.jpg
 categories:
   - blog
 tags:
@@ -16,7 +16,7 @@ coining of the term "DevOps," by Patrick Debois [over 10 years ago](https://lega
 the cultural underpinnings it endorses to ease the burdens associated with building software systems have not always 
 been well embraced.
 
-![DevOps](/assets/images/posts/devops/iStock-1199494839.jpg)
+![DevOps](/assets/images/posts/devops/devops.jpg)
 
 _<small>Credit: Getty Images</small>_
 
