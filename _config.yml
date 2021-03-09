@@ -119,5 +119,5 @@ tag_archive:
 analytics:
   provider               : google # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : G-996CD4ZZJN
+    tracking_id          : UA-190939361-1
     anonymize_ip         : false # true, false (default)
