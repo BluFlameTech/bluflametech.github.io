@@ -12,7 +12,7 @@ tags:
 - java
 - terraform
 - groovy
-- code
+- automation
 ---
 
 For many modern programming languages, various levels of automated testing have been around for years. However, for Infrastructure

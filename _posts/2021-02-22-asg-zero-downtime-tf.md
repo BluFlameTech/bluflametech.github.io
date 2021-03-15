@@ -9,6 +9,7 @@ tags:
 - devops
 - terraform
 - infrastructure
+- automation
 - aws
 ---
 
