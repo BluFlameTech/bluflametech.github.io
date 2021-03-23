@@ -269,6 +269,7 @@ GEM
     unf_ext (0.0.7.7)
     unicode-display_width (1.7.0)
     verbal_expressions (0.1.5)
+    webrick (1.7.0)
 
 PLATFORMS
   ruby
@@ -283,6 +284,7 @@ DEPENDENCIES
   jekyll-sitemap
   jemoji
   tzinfo-data
+  webrick (~> 1.7)
 
 BUNDLED WITH
-   2.1.4
+   2.2.15
