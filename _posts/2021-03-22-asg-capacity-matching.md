@@ -13,7 +13,7 @@ tags:
 - aws
 ---
 
-A month ago, we discussed [zero-downtime updates for autoscaling groups using Terraform](asg-zero-downtime-tf/).
+A month ago, we discussed [zero-downtime updates for autoscaling groups using Terraform](/blog/asg-zero-downtime-tf/).
 But we omitted capacity matching. This is the post that discusses how to do capacity matching.
 
 ![AWS Autocaling Groups](/assets/images/posts/zero_downtime_asg/AWS-autoscaling-logo.jpg)
@@ -33,7 +33,7 @@ waiting for the new autoscaling group to gradually scale up? Answer: capacity ma
 3. Attach the new autoscaling group to the load balancer
 4. Destroy the old autoscaling group once the new autoscaling group is "InService"
 
-Steps 3 and 4 were already covered in [Zero-Downtime AWS Autoscaling Groups with Terraform](asg-zero-downtime-tf/).
+Steps 3 and 4 were already covered in [Zero-Downtime AWS Autoscaling Groups with Terraform](/blog/asg-zero-downtime-tf/).
 Steps 1 and 2 are new. Below we'll talk about how we achieve them.
 
 ### Getting the Capacity of the Autoscaling Group
