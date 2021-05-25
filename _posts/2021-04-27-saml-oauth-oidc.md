@@ -99,11 +99,15 @@ will focus on OAuth2 in this section. For the remainder of this post, when we me
 _<small>3 Legged OAuth Flow</small>_
 
 The image above depicts a 3 Legged OAuth Flow. The sequence is as follows.
-1. The application requests authorization to access resources from the user
-2. If the user authorizes the request, the application receives an authorization grant
-3. The application requests an access token from the authorization (AuthZ) server by presenting its identity + the authorization grant
-4. After the AuthZ server validates the request, an access token is issued to the application
-5. The application can now use the access token to make requests against the resource server
+1. The user makes a request that triggers the Application to request authorization for resources
+2. The Application makes an authorization code request to the Authorization Server
+3. The user is prompted to grant authorization
+4. The user grants authorization to the Application via the Authorization Server
+5. The Authorization Server issues an authorization code to the Application
+6. The Application requests an access token by providing the authorization code, its and its secret to the Authorization Server
+7. The Application is issued an access token by the Authorization Server
+8. The Application can then provide the access token with its resource requests to the Resource Server
+9. The Resource Server validates the access token provided by the Application and if valid, it authorizes resources to the Application
 
 If you've ever given other applications access to your Facebook or Google accounts, the above
 flow probably makes a lot of sense. Well, that's because this is how it's done!
@@ -141,15 +145,17 @@ as is its approach to using tokens for authorization. Let's talk though the OIDC
 
 ![OIDC Authorization Code Flow](/assets/images/posts/saml_oauth_oidc/oidc.jpg)
 
-_<small>OIDC Authorization Code Flow Flow</small>_
+_<small>OIDC Authorization Code Flow</small>_
 
-1. A user initiates a log-in with the client website (e.g. clicking a login button)
-2. The client website requests an authorization code from the authorization/IdP server
-3. The user is redirected to log into the IdP server and authorize consent to some resources
-4. If the log-in is successful, an authorization code is sent from the authorization/IdP server to the client website
-5. The authorization code, along with the client website's ID and secret are sent to the authorization/IdP server
-6. If the authorization code, the client id and secret are validated, the authorization/IdP server responds with an ID token and an access token
-7. The client can now use the access token to request resources from the resource server
+1. The user makes a request that triggers the Application to request authorization for resources
+2. The Application makes an authorization code request to the Authorization Server
+3. The user is prompted to grant authorization
+4. The user grants authorization to the Application via the Authorization Server
+5. The Authorization Server issues an authorization code to the Application
+6. The Application requests an access token by providing the authorization code, its and its secret to the Authorization Server
+7. The Application is issued an access token and an ID token by the Authorization Server
+8. The Application can then provide the access token with its resource requests to the Resource Server
+9. The Resource Server validates the access token provided by the Application and if valid, it authorizes resources to the Application
 
 You may be wondering, "How does this improve upon OAuth?" It could certainly be argued that the use of JWT for the ID token alone is a significant improvement. 
 JWT's are easily decipherable as they are themselves, JavaScript. So, they can (and often do) include additional information about the user, like their full name, avatar, email, etc. 
