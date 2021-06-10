@@ -117,9 +117,9 @@ definitely gets points for creativity.
 
 ### What Are Unit Tests?
 
-![Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid/testPyramid.png)
+![Test Pyramid](/assets/images/posts/quality_not_coverage/testPyramid.jpg)
 
-_<small>The Test Pyramid; Credit: [MartinFowler.com](https://martinfowler.com/articles/practical-test-pyramid.html)</small>_
+_<small>The Test Pyramid</small>_
 
 Unit tests are the most granular form of tests. They test software at an individual software unit level. In the case
 of object-oriented programming, often a unit can be equated with a class. Unit tests make up the largest body of tests
