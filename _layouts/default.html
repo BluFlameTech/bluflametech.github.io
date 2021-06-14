@@ -12,7 +12,10 @@
 <head>
     {% include head.html %}
     {% include head/custom.html %}
+    {% assign url_path = page.url | slice: 0, 6 %}
+    {% if url_path == "/posts" or url_path == "/blog/" %}
     <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/0625cf3e033377017f549b586/407e37af406cb44ef16ec3985.js");</script>
+    {% endif %}
 </head>
 
 <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
