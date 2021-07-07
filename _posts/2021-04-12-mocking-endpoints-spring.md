@@ -10,6 +10,7 @@ tags:
   - mocks
   - web
   - spring
+  - solutions
 ---
 
 Do you interact with external web services? Do you need to test in a controlled environment where those external 

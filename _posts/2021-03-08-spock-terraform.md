@@ -13,6 +13,7 @@ tags:
 - terraform
 - groovy
 - automation
+- solutions
 ---
 
 For many modern programming languages, various levels of automated testing have been around for years. However, for Infrastructure

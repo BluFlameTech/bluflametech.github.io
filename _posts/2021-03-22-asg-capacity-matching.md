@@ -11,6 +11,7 @@ tags:
 - infrastructure
 - automation
 - aws
+- solutions
 ---
 
 A month ago, we discussed [zero-downtime updates for autoscaling groups using Terraform](/blog/asg-zero-downtime-tf/).

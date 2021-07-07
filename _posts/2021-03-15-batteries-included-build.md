@@ -9,6 +9,7 @@ tags:
 - devops
 - build
 - automation
+- solutions
 ---
 
 Clone repository, run local build... build failure. It works on the build server. It also works on Grant's workstation. 

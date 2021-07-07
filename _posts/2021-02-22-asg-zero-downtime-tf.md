@@ -11,6 +11,7 @@ tags:
 - infrastructure
 - automation
 - aws
+- solutions
 ---
 
 Hosting your own web application server? Then you may have heard that autoscaling groups are pretty great. But what 

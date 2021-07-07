@@ -10,6 +10,7 @@ tags:
 - terraform
 - infrastructure
 - disaster recovery
+- solutions
 ---
 
 Anyone who has worked with Terraform knows the pain associated with managing Terraform state. Things

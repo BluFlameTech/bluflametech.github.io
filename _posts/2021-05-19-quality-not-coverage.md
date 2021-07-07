@@ -11,6 +11,7 @@ tags:
 - coverage
 - software
 - devops
+- solutions
 ---
 
 It's easy to look at a metric like test coverage and equate high test coverage with high code quality. But it's

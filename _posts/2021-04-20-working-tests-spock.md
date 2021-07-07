@@ -13,6 +13,7 @@ tags:
 - terraform
 - groovy
 - automation
+- solutions
 ---
 
 We discussed automated [Terraform testing using Spock](/blog/spock-terraform/). We discussed 

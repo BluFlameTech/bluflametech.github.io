@@ -11,6 +11,7 @@ tags:
 - redis
 - java
 - hibernate
+- solutions
 ---
 
 Redis is fast, easy to manage and quick to deploy. So, let's build a Hibernate L2 cache integration with Redis using the 
