@@ -73,6 +73,9 @@ author:
     - label: "Facebook"
       url: "https://www.facebook.com/bluflametech"
       icon: "fab fa-fw fa-facebook-square"
+    - label: "Medium"
+      url: "https://medium.com/blu-flame-technologies"
+      icon: "fab fa-fw fa-medium"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.bluflametech.com"
@@ -88,6 +91,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: https://www.linkedin.com/company/blu-flame-technologies/
+    - label: "Medium"
+      icon: "fab fa-fw fa-medium"
+      url: https://medium.com/blu-flame-technologies
 
 defaults:
   # _posts
