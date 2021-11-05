@@ -18,7 +18,7 @@ Fortunately, there is a cure.
 
 ![Batteries Included](/assets/images/posts/batteries_included_build/battery.png)
 
-_<small>Credit: Getty Images</small>_
+_<small>Image by [Leyn](https://www.istockphoto.com/portfolio/Leyn?mediatype=illustration) on [iStock](https://www.istockphoto.com) by Getty Images</small>_
 
 Nobody wants to chase down umpteen build dependencies just to get to the point where they can start work. It's not just
 a problem for new team members. Anyone who has been in the software development game for any period of time has surely

@@ -17,7 +17,7 @@ and how can you get started with it? Read on to find out.
 
 ![Kubernetes](/assets/images/posts/kubernetes/kubernetes.jpg)
 
-_<small>Credit: Getty Images</small>_
+_<small>Image by [Jaiz Anuar](https://www.istockphoto.com/portfolio/JaizAnuar?mediatype=illustration) on [iStock](https://www.istockphoto.com) by Getty Images</small>_
 
 ### What is Kubernetes?
 

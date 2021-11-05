@@ -20,7 +20,7 @@ of code quality. That does not mean they equate to high code quality.
 
 ![Software Testing](/assets/images/posts/quality_not_coverage/testing.jpg)
 
-_<small>Credit: Getty Images</small>_
+_<small>Image by [PCH-Vector](https://www.istockphoto.com/portfolio/PCH-Vector?mediatype=illustration) on [iStock](https://www.istockphoto.com) by Getty Images</small>_
 
 ### Scenario: The Code Coverage Mandate
 

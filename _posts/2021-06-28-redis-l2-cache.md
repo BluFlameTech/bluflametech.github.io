@@ -19,7 +19,7 @@ popular Java client, Jedis!
 
 ![Database Cache](/assets/images/posts/redis_l2_cache/database_cache.jpg)
 
-_<small>Credit: Getty Images</small>_
+_<small>Image by [milkghost](https://www.istockphoto.com/portfolio/milkghost?mediatype=illustration) on [iStock](https://www.istockphoto.com) by Getty Images</small>_
 
 ### What Is L2 Cache?
 

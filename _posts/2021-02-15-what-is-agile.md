@@ -16,7 +16,7 @@ align with those 4 values and 12 principles, however, is (intentionally) open-en
 
 ![Agile](/assets/images/posts/what_is_agile/agile.jpg)
 
-_<small>Credit: Getty Images</small>_
+_<small>Image by [gguy44](https://www.istockphoto.com/portfolio/gguy44?mediatype=photography) on [iStock](https://www.istockphoto.com) by Getty Images</small>_
 
 One would think that the implementation of Agile might be where the confusion lies. And indeed, in many cases that's 
 true. The lack of a prescriptive dogmatic process can and does create confusion. But in some cases, the confusion is

@@ -19,7 +19,7 @@ But we omitted capacity matching. This is the post that discusses how to do capa
 
 ![AWS Autocaling Groups](/assets/images/posts/zero_downtime_asg/AWS-autoscaling-logo.jpg)
 
-_<small>Credit: Amazon Web Services</small>_
+_<small>Image Credit: [Amazon AWS](https://aws.amazon.com/)</small>_
 
 Let's say you provisioned an autoscaling group of web application servers attached to a load balancer with a desired capacity of x.
 Now, it's time to push an update that will replace that autoscaling group with a new autoscaling group. But increased

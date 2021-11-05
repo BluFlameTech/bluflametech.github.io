@@ -24,7 +24,7 @@ if your infrastructure is compliant, but it doesn't doesn't work as expected the
 
 ![Groovy Language](/assets/images/posts/testing_with_spock/groovy.png)
 
-_<small>Credit: The Apache Groovy programming language</small>_
+_<small>Image Credit: [The Apache Groovy programming language](https://groovy-lang.org/)</small>_
 
 ## Setting the Stage ##
 

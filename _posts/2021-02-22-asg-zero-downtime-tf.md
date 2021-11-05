@@ -20,7 +20,7 @@ the instances in your autoscaling group will result in a service outage. So, wha
 
 ![Autoscaling Groups](/assets/images/posts/zero_downtime_asg/AWS-autoscaling-logo.jpg)
 
-_<small>Credit: Amazon Web Services</small>_
+_<small>Credit: [Amazon Web Services](https://aws.amazon.com/)</small>_
 
 ### What are Autoscaling Groups?
 

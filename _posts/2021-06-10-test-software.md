@@ -19,7 +19,7 @@ But, a lot has changed in just a short period of time. Isn't it time how we test
 
 ![Software Testing](/assets/images/posts/test_software/test.jpg)
 
-_<small>Credit: Getty Images</small>_
+_<small>Image by [frender](https://www.istockphoto.com/portfolio/frender?mediatype=photography) on [iStock](https://www.istockphoto.com) by Getty Images</small>_
 
 ### The Traditional Testing Model
 

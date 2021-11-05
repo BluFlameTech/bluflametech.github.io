@@ -23,7 +23,7 @@ testing framework. We can! Enter Spock.
 
 ![Groovy Language](/assets/images/posts/testing_with_spock/groovy.png)
 
-_<small>Credit: The Apache Groovy programming language</small>_
+_<small>Credit: [The Apache Groovy programming language](https://groovy-lang.org/)</small>_
 
 ### The Terraform Testing Landscape
 

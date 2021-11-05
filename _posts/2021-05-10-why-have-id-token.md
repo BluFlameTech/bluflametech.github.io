@@ -19,7 +19,7 @@ want to use both.
 
 ![Security](/assets/images/posts/saml_oauth_oidc/security.jpg)
 
-_<small>Credit: Getty Images</small>_
+_<small>Image by [Elena Nelyubina](https://www.istockphoto.com/portfolio/ElenaNelyubina?mediatype=illustration) on [iStock](https://www.istockphoto.com) by Getty Images</small>_
 
 ### OAuth vs OpenID Connect
 

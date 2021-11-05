@@ -17,7 +17,7 @@ breaks down what GitOps is and why it matters.
 
 ![GitOps](/assets/images/posts/gitops/gitops.jpg)
 
-_<small>Credit: Getty Images</small>_
+_<small>Image by [gdainti](https://www.istockphoto.com/portfolio/gdainti?mediatype=illustration) on [iStock](https://www.istockphoto.com) by Getty Images</small>_
 
 ### What is GitOps? ###
 

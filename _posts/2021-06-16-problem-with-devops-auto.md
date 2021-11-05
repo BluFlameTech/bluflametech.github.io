@@ -15,7 +15,7 @@ Unfortunately, that nirvana isn't often achieved by many teams. Why is that?!?!
 
 ![Frustrated Programmer Using Modern DevOps Tooling](/assets/images/posts/problem_with_devops_auto/frustrated_programmer.jpg)
 
-_<small>Credit: Getty Images</small>_
+_<small>Photo by [skynesher](https://www.istockphoto.com/portfolio/skynesher?mediatype=photography) on [iStock](https://www.istockphoto.com) by Getty Images</small>_
 
 > Success in software development requires that organizations empower developers, enabling them to build productively, collaborate globally & securely, and scale innovation.
 

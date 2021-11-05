@@ -18,7 +18,7 @@ been well embraced.
 
 ![DevOps](/assets/images/posts/devops/devops.jpg)
 
-_<small>Credit: Getty Images</small>_
+_<small>Image by [sabelskaya](https://www.istockphoto.com/portfolio/sabelskaya?mediatype=illustration) on [iStock](https://www.istockphoto.com) by Getty Images</small>_
 
 It's safe to say that _we are not there yet._ In some respects, the case for DevOps has not been made - not 
 sufficiently well enough for managers who came up with a compartmentalized approach to software development to adopt a 
