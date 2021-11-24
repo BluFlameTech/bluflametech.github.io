@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Blu Flame Technologies
+title: Blu Flame Technologies - DevOps Automation & Software Development Resources
 favicon: true
 corp_name: "Blu Flame Technologies, LLC"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Develper-oriented end-to-end DevOps automation that just works
-keywords: devops, devsecops, automation, developer, build, software, ci, cd, integration, delivery, programming, software
+  Blu Flame Technologies provides developer-oriented end-to-end DevOps automation that just works. Our tools and resources make building and delivering complete software systems easy.
+keywords: devops, automation, build, test, container, kubernetes, terraform, software, ci, cd, integration, delivery, programming, software, devsecops, technology
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: air
