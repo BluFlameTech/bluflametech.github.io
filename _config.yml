@@ -18,7 +18,7 @@ favicon: true
 corp_name: "Blu Flame Technologies"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Blu Flame Technologies provides developer-oriented end-to-end DevOps automation that just works. Our tools and resources make building and delivering complete software systems easy.
+  Blu Flame Technologies provides powerful tools and resources that make building and delivering complete software systems easy.
 keywords: devops, automation, build, test, container, kubernetes, terraform, software, ci, cd, integration, delivery, programming, software, devsecops, technology
 twitter_username: username
 github_username: username
