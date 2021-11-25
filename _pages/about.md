@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About Blu Flame Technologies"
+title: "About Us"
 layout: default
 ---
 
