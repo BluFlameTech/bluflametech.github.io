@@ -23,26 +23,37 @@
   background-color: white;
 }
 
-.splash-text {
-  background-size: 100%;
-  background-color: white;
-  background-repeat: no-repeat;
+.bluflame-splash {
   margin-left: auto;
   margin-right: auto;
-  text-align: center;
-  width: 100%;
-  padding: 0;
+  max-width: 1280px;
+  text-align: left;
+  display: table;
 }
 
-.bluflame-banner {
-  background-image: url("/assets/images/banner.png");
-  height: 6em;
+.bluflame-splash img {
+  width: 50em;
+  display: table-cell;
 }
 
-.bluflame-banner h1 {
-  color: #ffffff;
+.bluflame-splash .text {
+  font-size: 1rem;
+  font-family: "Segoe UI", Helvetica, Arial, sans-serif;
   font-weight: 400;
+  color: #0092ca;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  padding: 1rem;
 }
+
+.bluflame-splash .text h1 {
+  font-size: 1.25rem;
+  font-weight: 400;
+  color: #023676;
+  text-align: center;
+}
+
 
 .codezero th {
   background-color: #ffffff;

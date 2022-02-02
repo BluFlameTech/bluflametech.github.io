@@ -1,7 +1,5 @@
 main:
-  - title: "About"
-    url: /about/
   # - title: "Products"
   #  url: /codezero/
-  - title: "Blog"
+  - title: "Posts"
     url: /posts/
