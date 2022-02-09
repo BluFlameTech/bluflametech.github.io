@@ -9,14 +9,21 @@
 .page__footer {
   margin-top: 0;
   padding-left: 20px;
+  color: rgba(2, 54, 118, 0.65);
+  background-color: #f8f9fa;
+  border-top: 2px solid #dee2e6;
 }
 
 .page__footer a:link, .page__footer a:visited {
-  color: white;
+  color: rgba(2, 54, 118, 0.65);
 }
 
 .page__footer a i.fab {
-  color: #dddddd;
+  color: rgba(2, 54, 118, 0.65);
+}
+
+.page__footer-follow, .page__footer-copyright {
+  color: rgba(2, 54, 118, 0.65);
 }
 
 .initial-content {
@@ -290,6 +297,26 @@ p.page__meta {
 
 section.page__content {
   margin-top: 1.3em;
+}
+
+.masthead__menu-item a, .masthead__menu-item a:visited {
+  margin-left: 0.37rem;
+  margin-right: 0.37rem;
+  color: rgba(0, 0, 0, 0.55);
+}
+
+.masthead__menu-item a:hover {
+ color: rgba(0, 0, 0, 0.9);
+ text-decoration: none;
+}
+
+.masthead__menu-item a.active {
+  color: rgba(0, 0, 0, 0.9);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.9);
+}
+
+.greedy-nav .visible-links a:before {
+  background-color: #eeeeee;
 }
 
 

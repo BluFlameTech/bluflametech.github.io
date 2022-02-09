@@ -1,5 +1,5 @@
 main:
   # - title: "Products"
   #  url: /codezero/
-  - title: "Posts"
-    url: /posts/
+  - title: "Home"
+    url: https://www.bluflametech.com

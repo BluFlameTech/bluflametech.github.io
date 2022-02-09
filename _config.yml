@@ -18,13 +18,13 @@ favicon: true
 corp_name: "Blu Flame Technologies"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Blu Flame Technologies provides powerful tools and resources that make building and delivering complete software systems easy.
+  Blu Flame Technologies Blog has loads of free content focused on programming, software development, cloud computing, kubernetes, devops and more.
 keywords: devops, automation, build, test, container, kubernetes, terraform, software, ci, cd, integration, delivery, programming, software, devsecops, technology
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: air
 layout: single
-search: true
+search: false
 logo: "/assets/images/bftech.png"
 # Build settings
 markdown: kramdown
@@ -63,7 +63,14 @@ author:
   name   : "Blu Flame Technologies"
   avatar : "/assets/images/bio-photo.png"
   bio    : "building software better."
+  home   : "https://www.bluflametech.com"
   links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.bluflametech.com"
+    - label: "Products"
+      icon: "fa fa-fw fa-fire"
+      url: "https://www.bluflametech.com/products"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/company/blu-flame-technologies/"
@@ -76,10 +83,6 @@ author:
     - label: "Medium"
       url: "https://medium.com/blu-flame-technologies"
       icon: "fab fa-fw fa-medium"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.bluflametech.com"
-
 footer:
   links:
     - label: "Twitter"
