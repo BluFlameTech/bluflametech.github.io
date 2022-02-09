@@ -126,7 +126,7 @@ may be more time-consuming than it is useful, especially when compared to the ot
 
 CodeZero is a hosted software development automation by Blu Flame Technologies. It provides Continuous Integration and
 Continuous Delivery services. Additional metrics, product integrations and self-service capabilities will follow. But
-for right now, it's base is validate/build/test/deploy with low maintenance overhead and near instant project on-boarding. 
+for right now, its base is validate/build/test/deploy with low maintenance overhead and near instant project on-boarding. 
 
 ### Why Is CI Important?
 
