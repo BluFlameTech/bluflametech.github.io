@@ -223,12 +223,12 @@ ops:
     - terraform:
         path: ''
         script: |
-          sudo apt-get install -y unzip
-          curl -g https://releases.hashicorp.com/terraform/0.12.24/terraform_0.12.24_linux_amd64.zip -o /tmp/terraform.zip
-          sudo unzip /tmp/terraform.zip -d /usr/bin
+          sudo apt-get -qq install -y unzip
+          curl -g -s https://releases.hashicorp.com/terraform/0.12.24/terraform_0.12.24_linux_amd64.zip -o /tmp/terraform.zip
+          sudo unzip -q /tmp/terraform.zip -d /usr/bin
   test:
     - tf-build-tools:
-        script: ./mvnw clean test
+        script: ./mvnw clean test -no-transfer-progress
 ```
 
 Under setup.terraform, there exist two elements: path and script. By default, the path of an operation is the name of its 
@@ -263,20 +263,20 @@ the test.tf-build-tools operation.
 
 ```yaml
 lang:
-  java: 8 
-events:
+  java: 8
+events: 
   git_branch: main
 ops: 
   setup:
     - terraform:
         path: ''
         script: |
-          sudo apt-get install -y unzip
-          curl -g https://releases.hashicorp.com/terraform/0.12.24/terraform_0.12.24_linux_amd64.zip -o /tmp/terraform.zip
-          sudo unzip /tmp/terraform.zip -d /usr/bin
+          sudo apt-get -qq install -y unzip
+          curl -g -s https://releases.hashicorp.com/terraform/0.12.24/terraform_0.12.24_linux_amd64.zip -o /tmp/terraform.zip
+          sudo unzip -q /tmp/terraform.zip -d /usr/bin
   test:
     - tf-build-tools:
-        script: ./mvnw clean test
+        script: ./mvnw clean test -no-transfer-progress
 stages:
   - setup:
       ops:
