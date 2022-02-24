@@ -24,7 +24,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: air
 layout: single
-search: false
+search: true
 logo: "/assets/images/bftech.png"
 # Build settings
 markdown: kramdown
